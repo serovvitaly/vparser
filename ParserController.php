@@ -4,6 +4,9 @@
  * Парсер - тут добавить нечего
  * 
  */
+ 
+namespace \vparser;
+ 
 class VsParser_Controller {
     
     /**
